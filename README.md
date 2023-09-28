@@ -1,5 +1,3 @@
-# Text_Classification_NLP
-Text Classification using RNN and Transformers
 # Description
 The Class_Using_RNN and Class_Using_Transformers folders contain the .ipynb model training file,<br>
 and the final solution as a csv file.
