@@ -2,7 +2,7 @@
 Text Classification using RNN and Transformers
 # Description
 The Class_Using_RNN and Class_Using_Transformers folders contain the .ipynb model training file,<br>
-the final solution as a csv file and the trained model itself.
+and the final solution as a csv file.
 
 # How to run on Google Colab
 Download the .ipynb file you need from Google Colab and then run it using the GPU.<br>
