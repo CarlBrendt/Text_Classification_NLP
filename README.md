@@ -9,6 +9,8 @@ Download the .ipynb file you need from Google Colab and then run it using the GP
 All necessary files will be downloaded automatically.
 
 # How to run on PC localy
+!!Make sure your GPU is available!!!<br>
+
 1. You need to download the files from the following links: <br>
    source data: https://drive.google.com/file/d/1n6DF2zBa0N9IpXUGNCAXm6m8L26nb6PL/view?usp=sharing <br>
    glove : https://drive.google.com/file/d/1EHBDcDlqN-0ZTjmLtTMnyvZH0ls_8IW3/view?usp=sharing
