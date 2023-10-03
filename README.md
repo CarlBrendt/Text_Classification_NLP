@@ -14,7 +14,7 @@ All necessary files will be downloaded automatically.
 
 1. You need to download the files from the following links: <br>
    source data: https://drive.google.com/file/d/1n6DF2zBa0N9IpXUGNCAXm6m8L26nb6PL/view?usp=sharing <br>
-   glove : https://drive.google.com/file/d/1EHBDcDlqN-0ZTjmLtTMnyvZH0ls_8IW3/view?usp=sharing
+   glove : https://drive.google.com/file/d/1EHBDcDlqN-0ZTjmLtTMnyvZH0ls_8IW3/view?usp=sharing <br>
    model_0 : https://drive.google.com/file/d/1oX8_88JT70wx43M_u1_js9COaY660y8T/view?usp=sharing (model created using ensemble and text augmentation techniques)<br>
    
 3. For Class_Using_RNN Folder:<br>
