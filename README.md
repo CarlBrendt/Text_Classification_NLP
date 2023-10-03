@@ -4,6 +4,7 @@ NLP Text Clasification using RNN and Transformers
 # Description
 The Class_Using_RNN and Class_Using_Transformers folders contain the .ipynb model training file,<br>
 and the final solution as a csv file.
+To create the model in Class_Using_Transformers, we used the ensemble and text augmentation techniques to obtain the best possible accuracy
 
 # How to run on Google Colab
 Download the .ipynb file you need from Google Colab and then run it using the GPU.<br>
