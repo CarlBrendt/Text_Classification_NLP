@@ -6,3 +6,11 @@ tensorflow==2.13.0
 scikit-learn==1.2.2
 nltk==3.8.1
 nltk.download('stopwords')
+evaluate==0.4.0
+transformers==4.34.0
+datasets==2.14.5
+torch==2.0.1+cu118
+nlpaug==1.1.11
+scipy==1.11.3
+accelerate==0.23.0
+transformers[torch]
