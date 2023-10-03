@@ -22,5 +22,5 @@ All necessary files will be downloaded automatically.
     Also within the .ipynb itself, comment out all the cells with links to Google Drive<br>
     
 4. For Class_Using_Transformers Folder<br>
-      Unzip the zip archives model_0 and source data and put only the contents of!!!!!!! into the folder Class_Using_Transformers<br>
+      Unzip the zip archives model_0 and source data and put the folder model_0!!!!!!! into the folder Class_Using_Transformers<br>
       Also within the .ipynb itself, comment out all the cells with links to Google Drive<br>
