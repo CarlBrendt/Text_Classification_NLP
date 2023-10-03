@@ -1,4 +1,4 @@
-# Text Сlasification Project
+# Text Classification Project
 NLP Text Clasification using RNN and Transformers
 
 # Description
